@@ -1,26 +1,68 @@
-{
-    "news": [
-      {
-        "title": "New Desi Hip Hop Album Release",
-        "image": "https://example.com/images/album_cover.jpg",
-        "date": "2023-06-15",
-        "tags": ["album", "release", "Desi Hip Hop"],
-        "description": "Exciting news for Desi Hip Hop fans! A highly anticipated album from a prominent Desi Hip Hop artist has just been released. The album features a fusion of traditional Desi sounds with modern hip hop beats, creating a unique and energetic vibe. Fans can expect powerful lyrics, catchy hooks, and collaborations with other notable artists in the Desi Hip Hop scene. Get ready to groove to the beats of this groundbreaking album!"
-      },
-      {
-        "title": "Desi Hip Hop Festival Announced",
-        "image": "https://example.com/images/festival_poster.jpg",
-        "date": "2023-07-20",
-        "tags": ["festival", "event", "Desi Hip Hop"],
-        "description": "Save the date! The biggest Desi Hip Hop festival of the year has just been announced. This one-day event will bring together the best Desi Hip Hop artists from around the world for a night of electrifying performances. Fans can expect high-energy rap battles, mind-blowing dance routines, and special guest appearances. Don't miss out on this epic celebration of Desi Hip Hop culture!"
-      },
-      {
-        "title": "Interview with Rising Desi Hip Hop Star",
-        "image": "https://example.com/images/interview_thumbnail.jpg",
-        "date": "2023-06-30",
-        "tags": ["interview", "artist spotlight", "Desi Hip Hop"],
-        "description": "In an exclusive interview, we sit down with a rising star in the Desi Hip Hop scene. This talented artist has been making waves with their unique style and thought-provoking lyrics. Learn about their musical journey, inspirations, and upcoming projects. Get an inside look at the artist's creative process and their vision for the future of Desi Hip Hop. Don't miss this insightful conversation with one of the industry's brightest rising stars!"
-      }
-    ]
+[
+  {
+    "_id": "64b5405524957126e591d243",
+    "title": "sample news",
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2OMUvmz1_5G3BEIpJvYArc-sTJBDO3AudeA&usqp=CAU",
+    "tag": "Sample News",
+    "approved": false,
+    "createdAt": "2023-07-17T13:21:25.332Z",
+    "updatedAt": "2023-07-17T13:21:25.332Z",
+    "__v": 0
+  },
+  {
+    "_id": "64b5409a24957126e591d245",
+    "title": "sample news1",
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2OMUvmz1_5G3BEIpJvYArc-sTJBDO3AudeA&usqp=CAU",
+    "tag": "Sample News1",
+    "approved": false,
+    "createdAt": "2023-07-17T13:22:34.156Z",
+    "updatedAt": "2023-07-17T13:22:34.156Z",
+    "__v": 0
+  },
+  {
+    "_id": "64b540a024957126e591d247",
+    "title": "sample news2",
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2OMUvmz1_5G3BEIpJvYArc-sTJBDO3AudeA&usqp=CAU",
+    "tag": "Sample News2",
+    "approved": false,
+    "createdAt": "2023-07-17T13:22:40.280Z",
+    "updatedAt": "2023-07-17T13:22:40.280Z",
+    "__v": 0
+  },
+  {
+    "_id": "64b540a624957126e591d249",
+    "title": "sample news3",
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2OMUvmz1_5G3BEIpJvYArc-sTJBDO3AudeA&usqp=CAU",
+    "tag": "Sample News3",
+    "approved": false,
+    "createdAt": "2023-07-17T13:22:46.644Z",
+    "updatedAt": "2023-07-17T13:22:46.644Z",
+    "__v": 0
+  },
+  {
+    "_id": "64b540ac24957126e591d24b",
+    "title": "sample news4",
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2OMUvmz1_5G3BEIpJvYArc-sTJBDO3AudeA&usqp=CAU",
+    "tag": "Sample News4",
+    "approved": false,
+    "createdAt": "2023-07-17T13:22:52.864Z",
+    "updatedAt": "2023-07-17T13:22:52.864Z",
+    "__v": 0
+  },
+  {
+    "_id": "64b540b224957126e591d24d",
+    "title": "sample news5",
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2OMUvmz1_5G3BEIpJvYArc-sTJBDO3AudeA&usqp=CAU",
+    "tag": "Sample News5",
+    "approved": false,
+    "createdAt": "2023-07-17T13:22:58.411Z",
+    "updatedAt": "2023-07-17T13:22:58.411Z",
+    "__v": 0
   }
-  
+]
