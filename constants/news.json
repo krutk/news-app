@@ -1,0 +1,26 @@
+{
+    "news": [
+      {
+        "title": "New Desi Hip Hop Album Release",
+        "image": "https://example.com/images/album_cover.jpg",
+        "date": "2023-06-15",
+        "tags": ["album", "release", "Desi Hip Hop"],
+        "description": "Exciting news for Desi Hip Hop fans! A highly anticipated album from a prominent Desi Hip Hop artist has just been released. The album features a fusion of traditional Desi sounds with modern hip hop beats, creating a unique and energetic vibe. Fans can expect powerful lyrics, catchy hooks, and collaborations with other notable artists in the Desi Hip Hop scene. Get ready to groove to the beats of this groundbreaking album!"
+      },
+      {
+        "title": "Desi Hip Hop Festival Announced",
+        "image": "https://example.com/images/festival_poster.jpg",
+        "date": "2023-07-20",
+        "tags": ["festival", "event", "Desi Hip Hop"],
+        "description": "Save the date! The biggest Desi Hip Hop festival of the year has just been announced. This one-day event will bring together the best Desi Hip Hop artists from around the world for a night of electrifying performances. Fans can expect high-energy rap battles, mind-blowing dance routines, and special guest appearances. Don't miss out on this epic celebration of Desi Hip Hop culture!"
+      },
+      {
+        "title": "Interview with Rising Desi Hip Hop Star",
+        "image": "https://example.com/images/interview_thumbnail.jpg",
+        "date": "2023-06-30",
+        "tags": ["interview", "artist spotlight", "Desi Hip Hop"],
+        "description": "In an exclusive interview, we sit down with a rising star in the Desi Hip Hop scene. This talented artist has been making waves with their unique style and thought-provoking lyrics. Learn about their musical journey, inspirations, and upcoming projects. Get an inside look at the artist's creative process and their vision for the future of Desi Hip Hop. Don't miss this insightful conversation with one of the industry's brightest rising stars!"
+      }
+    ]
+  }
+  
